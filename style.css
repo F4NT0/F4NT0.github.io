@@ -1,0 +1,10 @@
+
+/* Alterando a Cor do Fundo */
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
