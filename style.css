@@ -2,9 +2,15 @@
 /* Alterando a Cor do Fundo */
 
 body {
-    background-color: black;
+    background-color: #373736;
 }
 
 h1 {
-    color: red;
+    color:#E4980B;
+}
+
+.button {
+    border-radius: 2px;
+    color: orange;
+    background-color: blue;
 }
