@@ -9,8 +9,8 @@ h1 {
     color:#E4980B;
 }
 
-.button {
-    border-radius: 2px;
+.repo {
+    border-radius: 12px;
     color: orange;
     background-color: blue;
 }
